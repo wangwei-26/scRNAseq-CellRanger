@@ -11,7 +11,7 @@ A workflow to analyze single-cell RNA-sequencing data using CellRanger, includin
 
 ## Reference preparation
 
-Referenced stored at 10x Genomics database. These references include:
+References can be downloaded from 10x Genomics database. These references include:
 * Human reference (GRCh38) dataset
 * Mouse reference dataset
 * Human reference (GRCh38) and mouse dataset
