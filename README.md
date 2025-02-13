@@ -5,7 +5,8 @@ A workflow to analyze single-cell RNA-sequencing data using CellRanger, includin
 ## Prerequisite
 
 * Cell Ranger 7.1.0.
-* Make sure the naming of the fastq files follow the convention as <SampleID>_<IndexSequence>_L<lane>_R<read>_001.fastq.gz.
+* Make sure the naming of the FASTQ files follows the convention as 
+  `<SampleID>_<IndexSequence>_L<lane>_R<read>_001.fastq.gz`.
 * Make sure no ‘_’ in SampleID
 
 ## Reference preparation
