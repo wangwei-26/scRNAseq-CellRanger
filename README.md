@@ -1,6 +1,6 @@
 ## Introduction
 
-Workflows to analyze single-cell RNA-sequencing data using CellRanger, including gene-expression (GEX) library and VDJ library. 
+A workflow to analyze single-cell RNA-sequencing data using CellRanger, including gene-expression (GEX) library and VDJ library. 
 
 ## Prerequisite
 
